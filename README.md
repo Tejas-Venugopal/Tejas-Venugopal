@@ -11,7 +11,7 @@
 - 📚 Currently exploring **Kotlin** for advanced Android development and **Flutter** for cross-platform mobile applications.  
 - 🚀 **Goal**: Contribute to innovative projects in **Native** and **Hybrid app development** while expanding my knowledge and expertise.  
 - 📫 How to reach me: [tejasvenugopal.official@gmail.com](mailto:tejasvenugopal.official@gmail.com)  
-- 📄 Learn more about my experience from my [Resume](https://drive.google.com/file/d/1obx7GrPSk8EiZ8vGBlcdc4F-O7WIXrR5/view?usp=sharing).  
+- 📄 Learn more about my experience from my [Resume](https://drive.google.com/file/d/13FAq2jSo2JgCIryaPvWrlqCEBfLzJEyj/view?usp=drive_link).  
 
 ---
 
