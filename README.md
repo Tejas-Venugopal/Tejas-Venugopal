@@ -51,7 +51,7 @@ Java Android
 
 <p align="left">
   <a href="https://github.com/Tejas-Venugopal/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Venugopal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Venugopal&langs_count=6&count_private=true&hide=php,html,css,shell&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
   </a>
 </p>
 <div>
