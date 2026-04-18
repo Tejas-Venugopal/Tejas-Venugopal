@@ -72,11 +72,4 @@ Java Android
   </a>
 </div>
 
----
 
-<a href="https://github.com/Tejas-Venugopal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tejas-Venugopal">
-</a>
-<a href="https://github.com/Tejas-Venugopal?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tejas-Venugopal?label=Followers&style=social" alt="GitHub Badge">
-</a>
