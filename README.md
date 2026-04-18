@@ -58,9 +58,14 @@ Java Android
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Venugopal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="48%"/>
 </div>
 
+</div>
+
+<br clear="all"/>
+
 ---
 
 ### 🌐 Connect With Me
+
 
 <table border="0">
   <tr>
