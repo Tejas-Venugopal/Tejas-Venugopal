@@ -33,7 +33,7 @@
 
 ### 📂 Projects
 
-🏥 **Welldoc Health App** — Production healthcare Android app for diabetes management. Led migration of core module from Java/MVP to Kotlin + Jetpack Compose with MVI and StateFlow.
+🏥 **Welldoc/Lilly Health App** — Production healthcare Android app for diabetes management. Led migration of core module from Java/MVP to Kotlin + Jetpack Compose with MVI and StateFlow.
 Kotlin Jetpack Compose MVI StateFlow Hilt
 
 🌐 [KMP Portfolio](https://github.com/Tejas-Venugopal/kmp-portfolio) — Portfolio site built with KMP + Wasm. One Kotlin codebase shipping Android, iOS and Web.
