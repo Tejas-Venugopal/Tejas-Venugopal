@@ -56,7 +56,6 @@ Java Android
 </p>
 <div>
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Venugopal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="48%"/>
-  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tejas-Venugopal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%"/>
 </div>
 
 ---
