@@ -62,15 +62,20 @@ Java Android
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/tejas-v-71b3aa23b/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tejasvenugopal.official@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="38" height="38"/>
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/tejas-v-71b3aa23b/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:tejasvenugopal.official@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="38" height="38"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
