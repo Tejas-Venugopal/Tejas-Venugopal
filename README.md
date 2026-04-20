@@ -11,7 +11,7 @@
 🚀 Expanding into **Kotlin Multiplatform (KMP)** to ship across Android, iOS and Web from a single codebase.
 </br>📫 Reach me: [tejasvenugopal.official@gmail.com](mailto:tejasvenugopal.official@gmail.com)
 </br>🌐 Portfolio: [tejasvenugopal.netlify.app](https://tejasvenugopal-portfolio.netlify.app)
-</br>📄 [Resume](https://drive.google.com/file/d/13FAq2jSo2JgCIryaPvWrlqCEBfLzJEyj/view?usp=drive_link)
+</br>📄 [Resume](https://docs.google.com/document/d/1h0pftDaJJ71k1PwckIH_0tJpgUqTPtc6/edit?usp=drivesdk&ouid=104710601712452860270&rtpof=true&sd=true)
 
 ---
 
