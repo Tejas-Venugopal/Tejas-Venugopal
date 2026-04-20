@@ -9,9 +9,9 @@
 🏢 Currently at **Welldoc** — migrating a large-scale healthcare app from Java/MVP to Kotlin + Jetpack Compose with MVVM/MVI architecture.
 📱 Passionate about clean architecture, unidirectional data flow, and delivering high quality Android experiences.
 🚀 Expanding into **Kotlin Multiplatform (KMP)** to ship across Android, iOS and Web from a single codebase.
-📫 Reach me: [tejasvenugopal.official@gmail.com](mailto:tejasvenugopal.official@gmail.com)
-🌐 Portfolio: [tejasvenugopal.netlify.app](https://tejasvenugopal.netlify.app)
-📄 [Resume](https://drive.google.com/file/d/13FAq2jSo2JgCIryaPvWrlqCEBfLzJEyj/view?usp=drive_link)
+</br>📫 Reach me: [tejasvenugopal.official@gmail.com](mailto:tejasvenugopal.official@gmail.com)
+</br>🌐 Portfolio: [tejasvenugopal.netlify.app](https://tejasvenugopal-portfolio.netlify.app)
+</br>📄 [Resume](https://drive.google.com/file/d/13FAq2jSo2JgCIryaPvWrlqCEBfLzJEyj/view?usp=drive_link)
 
 ---
 
